@@ -1,0 +1,19 @@
+{
+  "name": "@hyeonjae-lee09/npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeonjae-lee09/npmtest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeonjae-lee09/npmtest/issues"
+  },
+  "homepage": "https://github.com/hyeonjae-lee09/npmtest#readme"
+}
